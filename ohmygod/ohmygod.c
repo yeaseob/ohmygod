@@ -7,6 +7,8 @@ typedef struct dkyposition
 	int xx;
 	int yy;
 	float zz;
+	int aabc;
+	
 
 }dkupos;
 float sum1(struct dkyposition* aa)
