@@ -8,6 +8,7 @@ typedef struct dkyposition
 	int yy;
 	float zz;
 	int aabc;
+	int acd;
 	
 
 }dkupos;
